@@ -1,0 +1,10 @@
+038-introduction-to-arrays-jsPmArInr
+039-getting-elements-jsPmArEG
+040-length-of-array-jsPmArLn
+041-change-elements-jsPmArECh
+042-adding-elements-by-keys-jsPmArEKA
+043-sparse-arrays-jsPmArSA
+044-adding-elements-via-push-jsPmArEPA
+045-keys-from-variables-jsPmArVk
+046-operator-delete-jsPmArOD
+047-practice-on-error-finding-jsPmArMst
